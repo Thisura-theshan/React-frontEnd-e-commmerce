@@ -107,7 +107,7 @@ const HomePage = () => {
             </div>
  
             <div className='pl-10'>
-                
+
             </div>
            
         </div>
